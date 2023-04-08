@@ -1,0 +1,25 @@
+# azre yaml code
+---
+Vegetables:
+ -"Cabbage"
+ -"Arugula"
+ -"Spinach"
+ -"Celery"
+  -"Mint"
+
+Fruits:
+ -"Banana"
+ -"Apple"
+ -"Grapes"  
+ -"Kiwi"
+ -"Mango"
+
+---
+Students Result Card:
+ -Subhan: E
+ -Haris:  A+
+ -Sameer: C
+ -Hamza:  B
+
+ #new update
+ 
